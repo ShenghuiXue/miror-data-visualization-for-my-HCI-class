@@ -1,0 +1,64 @@
+﻿response,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11,Q12,Q13,Q14,Q15
+1,no,30 - 39,Male,at home;on the bed,Yes,cell phone,Yes,Yes,Yes,Yes,Yes,No,Yes,I think such operation is very completed,NA
+2,no,30 - 39,Male,at home;on the bed;in the gym;on the commute,Yes,cell phone,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Might be difficult to remember for starters.,
+3,no,18 - 29,Male,at home,No,laptop,Not Sure,Not Sure,Yes,No,No,Yes,Yes,,
+4,yes,30 - 39,Male,at home;on the bed;in the gym;on the commute,Yes,cell phone,Yes,Yes,Yes,Yes,Yes,Yes,Yes,,
+5,no,30 - 39,Female,at home,Yes,cell phone,Yes,Not Sure,Yes,No,No,Yes,Yes,it would be difficult to remember the different number of touches to the action and I think users will end up doing a different function.,No
+6,no,30 - 39,Male,at home,No,cell phone,No,Yes,Yes,No,Not Sure,Yes,Not Sure,"Too many taps.  Needs some other method thats not memorizing how many taps perform a certain function.  5 seconds is too long,",maybe slide back to go back and forward to go forward -- use a capacitive touch surface
+7,yes,30 - 39,Male,at home,Yes,cell phone,Yes,Not Sure,Yes,No,No,Yes,Yes,to complicated,
+8,no,30 - 39,Male,at home,Yes,cell phone,Yes,Yes,Yes,Yes,Yes,Yes,Yes,A bit confusing,Why not use sign language?
+9,no,18 - 29,Female,at home;on the bed,No,cell phone,No,Yes,No,Yes,Yes,Yes,No,,
+10,no,18 - 29,Male,at home;on the bed,No,I didn’t watch any videos in the gym,No,Not Sure,Yes,Yes,Yes,Not Sure,Yes,,
+11,yes,30 - 39,Male,at home,No,I didn’t watch any videos in the gym,Not Sure,No,Yes,No,Not Sure,No,Yes,,
+12,no,30 - 39,Female,at home;on the bed;on the commute,Yes,cell phone,Yes,Yes,Yes,Yes,Yes,Yes,Yes,That would be good.,Does it allow some local space to download videos instead of using wifi.
+13,yes,18 - 29,Male,at home;on the commute,No,I didn’t watch any videos in the gym,No,Yes,Yes,Yes,Yes,No,Not Sure,I think this may be error prone; 5 seconds is actually a long time to execute this command.,I really don't see this prototype working out in a gym setting but I've been wrong before...
+14,no,30 - 39,Male,on the bed;in the gym;on the commute,Yes,cell phone,Yes,Yes,Yes,Not Sure,Not Sure,Not Sure,No,,
+15,no,40 - 49,Male,at home,No,cell phone,Not Sure,Yes,Yes,No,No,Yes,Yes,"not easy at first but could adapt and work well, I do like the idea",NA
+16,no,30 - 39,Male,at home;on the bed,Yes,cell phone,Yes,Yes,Yes,Yes,Yes,No,Yes,Too hard to remember but maybe it becomes invisible with practice,Maybe gestures like swiping front to back and back to front can be used for some operations instead of holding for prolonged duration?
+17,no,30 - 39,Male,at home;on the bed;on the commute,Yes,I didn’t watch any videos in the gym,Not Sure,Yes,Not Sure,Not Sure,Not Sure,Not Sure,Not Sure,"can it be voice or gesture operated, touching the glass legs everytime seems bit awkward",can it be voice or gesture operated
+18,yes,40 - 49,Male,at home,No,cell phone,Not Sure,Not Sure,Yes,Yes,Not Sure,Not Sure,Not Sure,,
+19,no,30 - 39,Male,at home;on the commute,No,I didn’t watch any videos in the gym,No,Not Sure,Yes,Yes,No,Yes,Yes,I would expect double tap to skip video. Holding for 5 seconds to go backwards doesn't seem intuitive to me. Maybe a sensor could be put in the other leg?,Double tap seems more likely to skip to the next video than change playback speed
+20,no,18 - 29,Female,at home;on the bed,No,I didn’t watch any videos in the gym,No,Not Sure,Yes,No,Yes,Yes,Yes,I think it would take some time to remember the commands needed to achieve this task but once the user has memorized it the commands would be easy to achieve.,
+21,yes,30 - 39,Male,at home;on the bed;on the commute,Yes,laptop,Yes,Yes,No,No,Yes,No,Yes,,
+22,no,18 - 29,Male,at home;on the bed;on the commute,Not Sure,laptop,Not Sure,Yes,Yes,Not Sure,No,Not Sure,Yes,"I think the number of touches should be consistent with headphones. Most of the single-button headphones I've used set double-tap to next, tripple-tap to prev, tap-hold to fast forward, tap-tap-hold to rewind, etc.","Will running on the treadmill cause the glasses to bounce? I would think that the continual bouncing motion would make the video difficult to watch, and it could cause motion sickness..."
+23,yes,18 - 29,Female,at home,No,cell phone,No,Yes,Yes,Yes,Yes,Not Sure,Not Sure,,
+24,no,18 - 29,Female,at home;on the bed;in the gym;on the commute,Yes,cell phone,Not Sure,Yes,Yes,Yes,Yes,Yes,No,"Well, not very like","When I'm reading, I just thought instead of doing 3 touch or hold 5 secs, you can do some feature on left side while the others on the right side. Such as quickly touch twice on the right side for the next video, quickly touch twice on the left side for the previous video. "
+25,no,30 - 39,Male,at home,No,laptop,No,Not Sure,Not Sure,Not Sure,Yes,No,No,,
+26,no,18 - 29,Do not want to answer,at home,No,I didn’t watch any videos in the gym,No,No,No,Yes,No,No,No,"Too many specifics to remember, hinders usability ",I don't think Google Glasses are a good medium for anything
+27,no,18 - 29,Female,at home;on the bed,Not Sure,cell phone,Not Sure,Yes,Yes,Yes,Yes,Yes,Yes,,
+28,yes,18 - 29,Male,at home,No,I didn’t watch any videos in the gym,Not Sure,Yes,Yes,Yes,Yes,Yes,Yes,,
+29,no,40 - 49,Male,at home;in the gym,Yes,cell phone,Yes,Yes,Yes,Yes,Yes,Yes,Yes,,
+30,no,18 - 29,Do not want to answer,at home,Yes,cell phone,No,Yes,Yes,Yes,No,Not Sure,Yes,Such operation is very complicated,I don't think google glass can be used to watch videos for long. My eyes will hurt. 
+31,no,30 - 39,Male,on the commute,No,I didn’t watch any videos in the gym,No,No,Not Sure,No,No,No,No,Next video is common. 3 touches is not.,None.
+32,no,30 - 39,Male,at home;on the bed;in the gym;on the commute,Yes,cell phone,Yes,Not Sure,Yes,Yes,Yes,Yes,Yes,It would work for me,
+33,yes,30 - 39,Male,at home;in the gym;on the commute,Yes,cell phone,Yes,Yes,Yes,No,No,No,Yes,Reasonable,"What is your age? * Male Female question seems wrong. I think instead of playback speed, fast forward and rewind can be added"
+34,no,18 - 29,Male,at home;on the bed,No,I didn’t watch any videos in the gym,Not Sure,Not Sure,Yes,Yes,Yes,Yes,Yes,might be annoying to hold for 5s before starting to go backward,
+35,no,18 - 29,Male,on the bed;on the commute,Not Sure,laptop,No,No,Not Sure,Yes,No,Yes,No,,
+36,no,30 - 39,Do not want to answer,on the commute,No,pad,No,Not Sure,Yes,Not Sure,Yes,No,No,"How would I know it is two seconds or 5 seconds, I wil lhave to watch a clock?",I think 2 secs five seconds is putting burden on the user. maybe different locations for different tasks to touch would be better.
+37,no,18 - 29,Female,at home,Yes,cell phone,Yes,Yes,No,Not Sure,No,No,No,its very delicate. I would not want to keep touching my glasses to perform operations. They might stain the glasses,
+38,yes,40 - 49,Male,at home;in the gym;on the commute,Yes,cell phone,Yes,Yes,Yes,Yes,Not Sure,Yes,No,good options,
+39,no,18 - 29,Male,at home;on the bed,No,cell phone,Not Sure,Yes,Yes,Yes,Yes,No,No,yes,
+40,no,18 - 29,Male,at home,No,I didn’t watch any videos in the gym,No,Not Sure,Yes,Yes,Yes,No,No,confusing,
+41,no,18 - 29,Male,on the bed;on the commute,No,I didn’t watch any videos in the gym,No,Not Sure,Yes,Yes,Yes,No,Not Sure,seems hard to remember,
+42,no,50 - 64,Male,on the bed,No,I didn’t watch any videos in the gym,Not Sure,Yes,Yes,Yes,Yes,Yes,Yes,Its worth a try. ,none
+43,no,30 - 39,Male,at home;on the bed;on the commute,Not Sure,I didn’t watch any videos in the gym,Not Sure,Yes,Yes,Yes,Yes,Yes,Yes,sounds logical and clear,add visual queues to the touch modes when activated ... bring up a visual list when a touch event starts to remind the user what actions are availible (and optionally prompt the user to undo what they just did)
+44,no,18 - 29,Female,at home;on the commute,No,I didn’t watch any videos in the gym,No,Yes,Yes,Yes,Yes,Not Sure,No,,
+45,no,18 - 29,Male,on the commute,Not Sure,laptop,Not Sure,Yes,Not Sure,Yes,Yes,Yes,Yes,,
+46,no,18 - 29,Female,in the gym,Yes,cell phone,Yes,Yes,Not Sure,No,Not Sure,No,No,Sounds good!,N/A
+47,no,30 - 39,Do not want to answer,at home,No,I didn’t watch any videos in the gym,No,Not Sure,Yes,No,Not Sure,Yes,Yes,"What if I need to touch the glasses to adjust the screen view and position, will not affect the watching experience?",Q3: what is your age???
+48,no,18 - 29,Female,at home;on the bed;in the gym;on the commute,Yes,cell phone,Yes,Yes,Yes,Yes,Yes,Yes,No,,
+49,yes,18 - 29,Male,at home;on the bed;on the commute,No,I didn’t watch any videos in the gym,No,Yes,Yes,Yes,Yes,No,Not Sure,These operations make sense and they are quite intuitive. Tapping 3 times in quick succession for moving to the next video feels quite natural.,"I think you even think about how you will turn on annotations or closed captioning, since that is a feature I often use as an international student. It would be great if there can be a sliding motion for that. Additionally, I would be interested in doing top-level navigation (if possible) beyond just skipping videos."
+50,yes,18 - 29,Male,at home;on the bed;in the gym,No,cell phone,Yes,Yes,Yes,Yes,No,Yes,Yes, , 
+51,no,30 - 39,Male,at home;on the commute,No,I didn’t watch any videos in the gym,No,Yes,Yes,Yes,Yes,No,No,seems too complicated,maybe have more than one button/area on the glasses that you can tap?
+52,no,18 - 29,Male,at home;on the commute,No,I didn’t watch any videos in the gym,No,Not Sure,Yes,Yes,Yes,Yes,Yes,"Too many operations, taps and seconds to remember. Start with only the important ones. ","Please don't suggest people to anything else while working out, pretty sure can be dangerous. "
+53,no,30 - 39,Male,at home,No,cell phone,Not Sure,Not Sure,Not Sure,Yes,Yes,Yes,Yes,,
+54,no,18 - 29,Do not want to answer,at home;on the bed;in the gym,Yes,cell phone,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Too much,
+55,no,18 - 29,Male,at home;on the bed;on the commute,No,cell phone,No,Yes,Yes,Yes,Yes,Yes,Yes,,
+56,no,30 - 39,Do not want to answer,on the commute,No,I didn’t watch any videos in the gym,No,No,Yes,Yes,Not Sure,No,Yes,,
+57,no,30 - 39,Male,at home,No,I didn’t watch any videos in the gym,No,Yes,Yes,Yes,Yes,No,Not Sure,I think that the 5 seconds period might be a little too long,
+58,no,30 - 39,Do not want to answer,at home;on the bed,No,I didn’t watch any videos in the gym,No,Yes,Yes,No,No,No,No,Good but difficult to learn without a manual.,
+59,no,30 - 39,Male,in the gym;on the commute,Yes,I didn’t watch any videos in the gym,Yes,Yes,Yes,Yes,No,Yes,Yes,I don't like that I have to remember all of these modes.,Maybe use gesture for some of the operations.
+60,yes,18 - 29,Male,at home;on the bed,No,cell phone,No,No,Yes,Yes,No,No,No,,
+61,no,30 - 39,Male,on the bed;on the commute,No,cell phone,No,Yes,Yes,Yes,Yes,Yes,Yes,Good and helpful.,Taking off the glasses should pause the video automatically and again keeping it back should play the video.
+62,yes,18 - 29,Male,at home;on the bed,Not Sure,cell phone,Yes,Yes,Yes,Yes,Yes,Yes,Yes,It is pretty straightforward,
+63,no,30 - 39,Male,at home,Yes,laptop,Yes,No,Yes,No,No,Yes,No,,
